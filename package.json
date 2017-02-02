@@ -10,5 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.14.0"
-  }
+  },
+  "missatge": "lalaland está sobrevalorada."
 }

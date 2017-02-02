@@ -28,5 +28,5 @@ var ServiceResponse = function (){
   this.environment = "none"
   this.version = "1.1";
   this.timestamp = new Date();
-  this.message = "<scrip>  alert('Hello! I am an alert box!!'); </scrip>"
+  this.message = "<script>  alert('Hello! I am an alert box!!'); </script>"
 }
